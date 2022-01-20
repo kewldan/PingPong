@@ -1,0 +1,4 @@
+bool isHost false
+string hostIP 178.71.155.16
+int difficulty 3
+int port 6006

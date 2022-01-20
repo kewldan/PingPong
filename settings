@@ -1,0 +1,4 @@
+bool isHost true
+string hostIP 127.0.0.1
+int difficulty 6
+int port 6006
